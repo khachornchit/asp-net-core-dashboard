@@ -21,13 +21,13 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "NetCore.Web/1.0.0": {
+      "PlutoCore.Web/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.3",
           "Microsoft.NETCore.App": "2.0.0"
         },
         "compile": {
-          "NetCore.Web.dll": {}
+          "PlutoCore.Web.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -3206,13 +3206,13 @@
       }
     },
     ".NETCoreApp,Version=v2.0/win7-x64": {
-      "NetCore.Web/1.0.0": {
+      "PlutoCore.Web/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.3",
           "Microsoft.NETCore.App": "2.0.0"
         },
         "runtime": {
-          "NetCore.Web.dll": {}
+          "PlutoCore.Web.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -6557,7 +6557,7 @@
     }
   },
   "libraries": {
-    "NetCore.Web/1.0.0": {
+    "PlutoCore.Web/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

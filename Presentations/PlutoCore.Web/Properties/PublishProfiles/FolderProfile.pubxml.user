@@ -6,6 +6,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\inetpub\wwwroot\netcore.plutosols.local</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\core.plutosols.local</_PublishTargetUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <File Include="Pages/_Layout.cshtml">
+      <publishTime>12/14/2017 16:57:23</publishTime>
+    </File>
+  </ItemGroup>
 </Project>
