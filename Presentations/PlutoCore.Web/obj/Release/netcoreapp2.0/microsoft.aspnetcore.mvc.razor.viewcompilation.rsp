@@ -1,0 +1,12 @@
+D:\Core Project\NetCoreTest\testnetcore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=testnetcore
+--content-root=D:\Core Project\NetCoreTest\testnetcore
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\About.cshtml
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\Contact.cshtml
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\Error.cshtml
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\Index.cshtml
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\_Layout.cshtml
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\_ValidationScriptsPartial.cshtml
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\_ViewImports.cshtml
+--file=D:\Core Project\NetCoreTest\testnetcore\Pages\_ViewStart.cshtml

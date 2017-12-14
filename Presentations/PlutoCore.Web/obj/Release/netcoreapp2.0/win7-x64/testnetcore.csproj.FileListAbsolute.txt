@@ -1,0 +1,14 @@
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\hostpolicy.dll
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\hostfxr.dll
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\testnetcore.exe
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\testnetcore.deps.json
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\testnetcore.runtimeconfig.json
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\testnetcore.runtimeconfig.dev.json
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\testnetcore.dll
+D:\Core Project\netcoretest\testnetcore\bin\Release\netcoreapp2.0\win7-x64\testnetcore.pdb
+D:\Core Project\netcoretest\testnetcore\obj\Release\netcoreapp2.0\win7-x64\testnetcore.csproj.CoreCompileInputs.cache
+D:\Core Project\netcoretest\testnetcore\obj\Release\netcoreapp2.0\win7-x64\testnetcore.AssemblyInfoInputs.cache
+D:\Core Project\netcoretest\testnetcore\obj\Release\netcoreapp2.0\win7-x64\testnetcore.AssemblyInfo.cs
+D:\Core Project\netcoretest\testnetcore\obj\Release\netcoreapp2.0\win7-x64\testnetcore.dll
+D:\Core Project\netcoretest\testnetcore\obj\Release\netcoreapp2.0\win7-x64\testnetcore.pdb
+D:\Core Project\NetCoreTest\testnetcore\obj\Release\netcoreapp2.0\win7-x64\testnetcore.csprojResolveAssemblyReference.cache
