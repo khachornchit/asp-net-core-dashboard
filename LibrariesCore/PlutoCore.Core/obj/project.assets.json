@@ -530,7 +530,7 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "sha512": "fk8eXhBTFfvP6hPDWUahGNiASiEp9idi5H5FFvGHHQHdjW0LlqRHayD3XM5XLkw45uTh+56SEwiXViJiKqjFAQ==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
