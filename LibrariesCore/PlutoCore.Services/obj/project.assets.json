@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Core Project\\Pluto Dashboard Core\\PlutoDashboardCoreSolution\\LibrariesCore\\PlutoCore.Services\\PlutoCore.Services.csproj",
+      "projectUniqueName": "D:\\Core Project\\Public\\plutosols-dashboard-core\\PlutoDashboardCoreSolution\\LibrariesCore\\PlutoCore.Services\\PlutoCore.Services.csproj",
       "projectName": "PlutoCore.Services",
-      "projectPath": "D:\\Core Project\\Pluto Dashboard Core\\PlutoDashboardCoreSolution\\LibrariesCore\\PlutoCore.Services\\PlutoCore.Services.csproj",
+      "projectPath": "D:\\Core Project\\Public\\plutosols-dashboard-core\\PlutoDashboardCoreSolution\\LibrariesCore\\PlutoCore.Services\\PlutoCore.Services.csproj",
       "packagesPath": "C:\\Users\\newchallengelive\\.nuget\\packages\\",
-      "outputPath": "D:\\Core Project\\Pluto Dashboard Core\\PlutoDashboardCoreSolution\\LibrariesCore\\PlutoCore.Services\\obj\\",
+      "outputPath": "D:\\Core Project\\Public\\plutosols-dashboard-core\\PlutoDashboardCoreSolution\\LibrariesCore\\PlutoCore.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
